@@ -1,6 +1,6 @@
 # A-Multiclass-Approach-to-Identify-Misogynistic-Bangla-Text-from-Social-Media
 
-This repository contains the dataset of the following paper: 
+This repository contains the dataset of the following paper: <br />
 IEEE Xplore Link: https://ieeexplore.ieee.org/document/10103269
 
 ResearchGate Link: https://www.researchgate.net/publication/370237640_A_Multiclass_Approach_to_Identify_Misogynistic_Bangla_Text_from_Social_Media
